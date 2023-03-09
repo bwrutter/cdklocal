@@ -7,11 +7,11 @@ const app = new cdk.App();
 
 const env: cdk.Environment = {
   account: "000000000000",
-  region: "sa-east-1"
+  region: "sa-east-1" 
 }
 
 const tags = {
-  cost: "TesteAPI",
+  cost: "TesteAPI!",
   team: "DevHero"
 }
 
