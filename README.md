@@ -1,5 +1,5 @@
 # cdklocal
- Montagem padrão de um CDK Local com localstack
+ Montagem padrão de um CDK Local com localstack (Testado em Ubuntu e Derivados)
  
 # Dependências
  Ter instalado: Docker Compose, Node, AWSCli, AWSCdk e cdklocal.
